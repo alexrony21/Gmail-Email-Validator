@@ -20,6 +20,6 @@ This tool will check your email list from a txt file and verify which emails are
 
 If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21). 
 
-**Time wasters will be directly blocked.**
+**Time wasters will be directly blocked..**
 
 Thank you!
