@@ -1,6 +1,6 @@
 # Gmail Valid Email Checker
 
-This tool will check your email list from a txt file and verify which emails are registered with Gmail and which are not.
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Gmail_Valid_Email_Checker.png)
 
 ## Features
 
