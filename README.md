@@ -1,6 +1,6 @@
 # Gmail Valid Email Checker
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Gmail_Valid_Email_Checker.png)
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Main_Checker.png)
 ![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Live_Proof.png)
 ![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Dead_Proof.png)
 
