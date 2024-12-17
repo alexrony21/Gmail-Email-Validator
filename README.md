@@ -1,27 +1,40 @@
 # Gmail Valid Email Checker
+# Gmail 有效电子邮件检查器
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Main_Checker.png)
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Live_Proof.png)
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Dead_Proof.png)
+![Gmail Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Main_Checker.png)
+![Gmail Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Live_Proof.png)
+![Gmail Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Gmail-Valid-Email-Checker/main/Dead_Proof.png)
 
-## Features
+# Features
+# 特征
 
 1. **Support Multithreading**: Faster verification with multithreading.
-2. **Fast Checking**: Quickly checks emails in your list.
-3. **No Proxy Needed**: No need for proxy configurations.
-4. **No Captcha Issue**: Handles verification without captcha problems.
-5. **Unlimited Checking**: Perform an unlimited number of checks.
-6. **Accurate Results**: Ensures precise verification.
 
-## Usage
+   **支持多线程**：通过多线程更快地进行验证。
+3. **Fast Checking**: Quickly checks emails in your list.
 
-1. **Prepare Your Email List**: Create a text file with the emails you want to check. Each email should be on a new line.
-2. **Run the Tool**: Use the tool to check the list. The results will indicate which emails are registered with Gmail.
+   **快速检查**：快速检查列表中的电子邮件。
+5. **No Proxy Needed**: No need for proxy configurations.
 
-## Contact
+   **无需代理**：无需代理配置。
+7. **No Captcha Issue**: Handles verification without captcha problems.
+
+   **无验证码问题**：在没有验证码问题的情况下处理验证。
+9. **Unlimited Checking**: Perform an unlimited number of checks.
+
+   **无限制检查**：执行无限数量的检查。
+11. **Accurate Results**: Ensures precise verification.
+
+   **准确的结果**：确保精确验证。
+
+
+# Contact
+# 接触
 
 If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21). 
 
-**Time wasters will be directly blocked..**
+如果您想购买此工具，请通过 Telegram [@alexrony21](https://t.me/alexrony21) 与我联系。
 
 Thank you!
+谢谢你！
+
