@@ -1,9 +1,7 @@
-# Gmail Valid Email Checker
-# Gmail 有效电子邮件检查器
+# Gmail Email Validator
+# Gmail 电子邮件验证器
 
-![Gmail Valid Email Checker]()
-![Gmail Valid Email Checker]()
-![Gmail Valid Email Checker]()
+![Gmail Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Gmail-Email-Validator/refs/heads/main/Gmail_Email_Validator.png)
 
 # Features
 # 特征
