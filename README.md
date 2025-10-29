@@ -36,7 +36,7 @@
 # Contact
 # 接触
 
-If you want to buy this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+To Purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
 
 如果您想购买此工具，请通过 Telegram: [@thepythoncode97](https://t.me/thepythoncode97) 与我联系。
 
