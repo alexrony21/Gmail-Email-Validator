@@ -6,24 +6,18 @@
 # Features
 # 特征
 
-1. **Support Multithreading**: Faster verification with multithreading.
+- Faster verification with multithreading.  
+- Quickly checks emails in your list.
+- No need for proxy configurations.
+- Handles verification without captcha problems.
+- Ensures precise verification.
 
-   **支持多线程**：通过多线程更快地进行验证。
-2. **Fast Checking**: Quickly checks emails in your list.
-
-   **快速检查**：快速检查列表中的电子邮件。
-3. **No Proxy Needed**: No need for proxy configurations.
-
-   **无需代理**：无需代理配置。
-4. **No Captcha Issue**: Handles verification without captcha problems.
-
-   **无验证码问题**：在没有验证码问题的情况下处理验证。
-5. **Unlimited Checking**: Perform an unlimited number of checks.
-
-   **无限制检查**：执行无限数量的检查。
-6. **Accurate Results**: Ensures precise verification.
-
-   **准确的结果**：确保精确验证。
+- 多线程加速验证，效率更高
+- 快速检查列表中的邮箱
+- 无需配置代理
+- 无验证码干扰，验证过程顺畅
+- 确保验证结果精准可靠  
+   
 7. **Performance Metrics**:  
    - **Per Minute Check**: 1087 emails  
    - **For 100k Check**: 1 hour and 32 minutes  
@@ -45,4 +39,3 @@ This tool is designed for marketers and businesses. If you engage in any illegal
 
 Thank you!
 谢谢你！
-
